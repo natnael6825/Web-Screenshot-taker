@@ -4,7 +4,7 @@ from PIL import Image
 from fpdf import FPDF
 
 # Replace ACCESS_KEY with your actual access key for the screenshotone API
-ACCESS_KEY = '3q4hAdr5QmG8Bw'
+ACCESS_KEY = 'your api key'
 
 urls = ['https://gogoanime.gr', 'https://copyassignment.com/run-python-code-install-libraries-create-virtual-environment-vs-code']
 
