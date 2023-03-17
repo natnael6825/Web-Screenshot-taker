@@ -1,0 +1,12 @@
+Please note that you will need to install the requests, Pillow, and fpdf libraries if you haven't already. You can do this using pip, the Python package manager, by running the following commands in your terminal or command prompt:
+
+
+pip install requests
+pip install Pillow
+pip install fpdf
+
+
+
+Also, make sure to replace 'your api key' with your actual API key from https://screenshotone.com/
+
+
